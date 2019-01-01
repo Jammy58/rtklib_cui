@@ -1,0 +1,92 @@
+﻿  convgpx.c
+  convkml.c
+  convrnx.c
+  datum.c
+  download.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\download.c(130): warning C4133: 'function': incompatible types - from 'const char *' to 'LPCWSTR'
+e:\gnss\rtklib\rtklib_243_gui_qt\src\download.c(284): warning C4133: 'function': incompatible types - from 'char [1024]' to 'LPCWSTR'
+e:\gnss\rtklib\rtklib_243_gui_qt\src\download.c(290): warning C4133: 'function': incompatible types - from 'const char *' to 'LPCWSTR'
+e:\gnss\rtklib\rtklib_243_gui_qt\src\download.c(320): warning C4101: 'stat': unreferenced local variable
+e:\gnss\rtklib\rtklib_243_gui_qt\src\download.c(503): warning C4101: 'remot_p': unreferenced local variable
+e:\gnss\rtklib\rtklib_243_gui_qt\src\download.c(774): warning C4101: 'tow': unreferenced local variable
+  ephemeris.c
+  geoid.c
+  gis.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\gis.c(312): warning C4101: 'q': unreferenced local variable
+  ionex.c
+  lambda.c
+  options.c
+  pntpos.c
+  postpos.c
+  ppp.c
+  ppp_ar.c
+  ppp_corr.c
+  preceph.c
+  qzslex.c
+  rcvraw.c
+  binex.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\binex.c(1019): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\binex.c(1044): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  cmr.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\cmr.c(2439): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\cmr.c(2556): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\cmr.c(2557): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  crescent.c
+  gw10.c
+  javad.c
+  novatel.c
+  nvs.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\nvs.c(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\nvs.c(267): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  rcvlex.c
+  rt17.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\rt17.c(1781): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\rt17.c(1794): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\rt17.c(1804): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\rt17.c(1830): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  septentrio.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\septentrio.c(369): warning C4244: '=': conversion from 'int16_t' to 'unsigned char', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\septentrio.c(406): warning C4244: '=': conversion from 'int16_t' to 'unsigned char', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\septentrio.c(414): warning C4244: '=': conversion from 'uint16_t' to 'unsigned char', possible loss of data
+  skytraq.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\skytraq.c(197): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\skytraq.c(319): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rcv\skytraq.c(326): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ss2.c
+  tersus.c
+  ublox.c
+  rinex.c
+  rtcm.c
+  rtcm2.c
+  rtcm3.c
+  rtcm3e.c
+  rtkcmn.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3117): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'WCHAR *'
+  e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3117): note: consider using '%ls' in the format string
+  e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3117): note: consider using '%lls' in the format string
+  e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3117): note: consider using '%Ls' in the format string
+  e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3117): note: consider using '%ws' in the format string
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3120): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'WCHAR *'
+  e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3120): note: consider using '%ls' in the format string
+  e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3120): note: consider using '%lls' in the format string
+  e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3120): note: consider using '%Ls' in the format string
+  e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3120): note: consider using '%ws' in the format string
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(3180): warning C4133: 'function': incompatible types - from 'char [1024]' to 'LPCWSTR'
+  rtkpos.c
+  Generating Code...
+  Compiling...
+  rtksvr.c
+  sbas.c
+  solution.c
+  stream.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\stream.c(381): warning C4133: 'function': incompatible types - from 'char [128]' to 'LPCWSTR'
+e:\gnss\rtklib\rtklib_243_gui_qt\src\stream.c(396): warning C4133: 'function': incompatible types - from 'char [64]' to 'LPCWSTR'
+e:\gnss\rtklib\rtklib_243_gui_qt\src\stream.c(771): warning C4101: 'rs': unreferenced local variable
+  streamsvr.c
+  tides.c
+  tle.c
+  Generating Code...
+rcvlex.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  rtklib243.vcxproj -> E:\GNSS\RTKLIB\RTKLIB_243_cui\Debug\rtklib243.lib

@@ -1,0 +1,99 @@
+﻿  tle.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  tides.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  streamsvr.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  stream.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  solution.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  sbas.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtksvr.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtkpos.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtkcmn.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtkcmn.c(134): fatal error C1083: 无法打开包括文件: “dirent.h”: No such file or directory
+  rtcm3e.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtcm3.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtcm2.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rtcm.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rinex.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ublox.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  tersus.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ss2.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  skytraq.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  septentrio.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rt17.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  rcvlex.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  nvs.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  novatel.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  javad.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  gw10.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  crescent.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  cmr.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  binex.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  rcvraw.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  qzslex.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  preceph.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ppp_corr.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ppp_ar.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ppp.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  postpos.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  pntpos.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  options.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  lambda.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ionex.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  gis.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  geoid.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  ephemeris.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  download.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  datum.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  convrnx.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  convkml.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  convgpx.c
+e:\gnss\rtklib\rtklib_243_gui_qt\src\rtklib.h(45): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  正在生成代码...
